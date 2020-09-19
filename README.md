@@ -8,7 +8,7 @@ I'm Shiertx.
 
 ### Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shiertx)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shiertx&layout=compact)
 
 ### My Blog
 
