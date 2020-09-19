@@ -4,7 +4,7 @@ I'm Shiertx.
 
 ### My GitHub Stats
 
-![十二同学's github stats](https://github-readme-stats.vercel.app/api?username=shiertx)
+![十二同学's github stats](https://github-readme-stats.vercel.app/api?username=shiertx&show_icons=true)
 
 ### Most Used Languages
 
