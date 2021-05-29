@@ -1,19 +1,9 @@
-### Hi,there!
+### 欢迎到访！
 
-I'm Shiertx.
+您好呀，欢迎访问我的 [GitHub 用户页](https://github.com/shiertx) ！
 
-A second-year student in Hechuan Middle School in Chongqing.
+我是一名 初中生 ，目前就读于 [重庆市合川中学（自建网站而非官网）](https://www.cqhczx.com) 。
 
-[See More(Chinese)](//blog.shiertx.com/about.html)
+更多关于我的信息，在 [这里](https://blog.shiertx.com/about) ，我的博客：[这里](https://blog.shiertx.com)。
 
-### My GitHub Stats
-
-![十二同学's Github Stats](https://github-readme-stats.vercel.app/api?username=shiertx&show_icons=true)
-
-### Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shiertx&layout=compact)
-
-### My Blog
-
-[Here](//blog.shiertx.com)
+以及，您可以直接往 [此Repo](https://github.com/shiertx/shiertx) 发Issue或给 [admin@shiertx.com](mailto:admin@shiertx.com) 发邮件，看到后会尽快回复~
